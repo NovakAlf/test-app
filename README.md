@@ -60,7 +60,7 @@ developer. Задание должно быть выполнено на PHP + La
 API:
 - api/auth/register post
 - api/auth/login post
-- api/auth/logout post
+- api/auth/logout get
 - api/auth/user get
 
 - api/events/events get
